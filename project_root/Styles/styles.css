@@ -1,0 +1,175 @@
+body {background: #e5e5e5;
+background: linear-gradient(48deg, black, white) ;}
+
+
+.80_92 { 
+	overflow:hidden;
+}
+.e80_92 { 
+	width:1024px;
+	height:1024px;
+	position:absolute;
+}
+.e80_93 { 
+	width:1024px;
+	height:1024px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+	background-image:url(images/design.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e80_94 { 
+	color:rgba(255, 255, 255, 1);
+	width:79px;
+	height:0px;
+	position:absolute;
+	left:900px;
+	top:33px;
+	font-family:Cookie;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e80_95 { 
+	width:115px;
+	height:35px;
+	position:absolute;
+	left:899px;
+	top:979px;
+}
+.80_96 { 
+	border:1px solid rgba(255, 4.250000221654773, 4.250000221654773, 1);
+}
+.e80_96 { 
+	width:35px;
+	height:35px;
+	position:absolute;
+	left:80px;
+	top:0px;
+	background-image:url(images/instagram.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.80_97 { 
+	border:1px solid rgba(255, 4.250000221654773, 4.250000221654773, 1);
+}
+.e80_97 { 
+	width:35px;
+	height:35px;
+	position:absolute;
+	left:40px;
+	top:0px;
+	background-image:url(images/telegram.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.80_98 { 
+	border:1px solid rgba(255, 4.250000221654773, 4.250000221654773, 1);
+}
+.e80_98 { 
+	width:35px;
+	height:35px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/discord.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e80_99 { 
+	width:154px;
+	height:25px;
+	position:absolute;
+	left:423px;
+	top:8px;
+}
+.e80_100 { 
+	color:rgba(167.87500709295273, 48.96354183554649, 48.96354183554649, 1);
+	width:129px;
+	height:10px;
+	position:absolute;
+	left:25px;
+	top:13px;
+	font-family:Cookie;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:0;
+}
+.80_101 { 
+	border:1px solid rgba(255, 0, 0, 1);
+}
+.e80_101 { 
+	width:25px;
+	height:25px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:100px;
+	border-top-right-radius:100px;
+	border-bottom-left-radius:100px;
+	border-bottom-right-radius:100px;
+	background-image:url(images/skull_in_pc_mouse_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e80_102 { 
+	width:649px;
+	height:0px;
+	position:absolute;
+	left:64px;
+	top:100px;
+}
+.e80_103 { 
+	color:rgba(255, 255, 255, 1);
+	width:102px;
+	height:0px;
+	position:absolute;
+	left:271px;
+	top:0px;
+	font-family:Cookie;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e80_104 { 
+	color:rgba(255, 255, 255, 1);
+	width:246px;
+	height:0px;
+	position:absolute;
+	left:403px;
+	top:0px;
+	font-family:Cookie;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e80_105 { 
+	color:rgba(255, 255, 255, 1);
+	width:155px;
+	height:0px;
+	position:absolute;
+	left:86px;
+	top:0px;
+	font-family:Cookie;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e80_106 { 
+	color:rgba(255, 255, 255, 1);
+	width:56px;
+	height:0px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Cookie;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:0;
+}
